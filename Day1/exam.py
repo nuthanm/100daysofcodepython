@@ -21,3 +21,24 @@ First identify the statement clearly and verify after.
 6. print('Hello: ' + input('Please enter your like? ')) => What is the output for this statement?
 '''
 
+# Program 2 - Take two inputs and assign into a variables. Swap those variables and print them back. Ex: a = 10, b = 20 then output should be a = 20 and b = 10
+a = input('Value of a: ')
+b = input('Value of b: ')
+
+print("Actual value of a :" + a)
+print("Actual value of b :" + b)
+
+# Swap here using 2 variables.
+a = b
+b = 
+
+
+
+# Swap here using 3 variables.
+temp = a # temp = 10
+a = b # a = 20
+b = temp # b = 10
+
+print("Actual value of a :" + a)
+print("Actual value of b :" + b)
+
