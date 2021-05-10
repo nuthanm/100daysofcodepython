@@ -9,8 +9,15 @@ In this repository, I am going to add what i learnt during this 100 days of code
   - Code snippets
   - many  more for learning purpose.
   
-**Day 1** - I learnt what, why and how to use **print** command along with that data type called **string**
+**Day 1** - I learnt what, why and how to use 
+  **print** command
 
+  **input** command
+
+  **string** datatype and its len() - find lenght of charecters in string
+
+  **variables** - Used to store and reuse it through out the application
+  
 **what** - *print* is a function to use display any content like text message, addition(Expressions/Mathematical) in console window.
 
 **why** - If you want to see some calculation like 10 + 20 = 30 in console then use *print* and it is one example. If you want to read and print the input what you type in console then use this function
@@ -58,6 +65,11 @@ Ex: a = 10, b = 20 and Output is 30
 '''
 
 **Note:** python is case-sensitive **Ex: p or P** both are different
+
+# References
+  - Website Links for Softwares to install and work with python.
+    - **Free Softwares**
+      1. https://thonny.org/
 
 
 *Stay Safe and Be happy and Never stop learning*

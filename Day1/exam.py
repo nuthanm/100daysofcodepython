@@ -17,5 +17,7 @@ First identify the statement clearly and verify after.
 4.  print('This will execute or error")
 
 5. print("Hello!!!!" + "Potti") => What is the output?
+
+6. print('Hello: ' + input('Please enter your like? ')) => What is the output for this statement?
 '''
 
