@@ -13,3 +13,12 @@ print(len(input('Please enter your like? ')))
 # From input() => len() => print() => Displays length of the input.
 
 # len() is used to find how many charecters in the input string.
+
+
+# use variables to modify above print statement
+inputString = input('Please enter your like? ')
+length = len(inputString)
+print(length)
+# inputString holds user Input
+# length holds length of user input
+# print statement prints the length using Length Variable.
