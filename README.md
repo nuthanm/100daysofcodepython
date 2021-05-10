@@ -35,7 +35,27 @@ print(10+20)
 Print(10+20)
 **o/p: throws an error: NameError: name 'Print' is not defined**
 
+** Multiple ways we acheive comments in python **
 
+**'#'** - Use it for single line comments.
+
+Ex: # Program 1 - Enter your name as an input.
+
+**'''**
+ Use this for multi line comments.
+**'''**
+
+Ex:
+'''
+Program - Write add function 
+
+Inputs: a, b and only it should be integer.
+
+Outut: a + b 
+
+Ex: a = 10, b = 20 and Output is 30
+
+'''
 
 **Note:** python is case-sensitive **Ex: p or P** both are different
 

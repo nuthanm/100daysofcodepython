@@ -1,2 +1,4 @@
-print('string operations')
-print('Concatinate two strings using "+" symbol Ex:Nani loves' + ' potti')
+# String operations
+#1. Concatinate two strings using "+" symbol 
+Ex:
+print('Nani loves' + ' potti')
