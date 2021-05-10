@@ -40,4 +40,6 @@ Print(10+20)
 **Note:** python is case-sensitive **Ex: p or P** both are different
 
 
-During this #100daysofcode i learnt 
+*Stay Safe and Be happy and Never stop learning*
+
+-- Happy Coding

@@ -1,0 +1,5 @@
+print('List of errors in python.')
+print('1. SyntaxError: Ex: unexpected EOF while parsing - It means either missed semicolon/bracket')
+print('2. SyntaxError: Ex: EOL while scanning string literal')
+print('3. IndentationError: Ex: Extra space added')
+print("4. NameError: Ex: name 'Print' is not defined")
