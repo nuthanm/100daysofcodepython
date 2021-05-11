@@ -70,6 +70,14 @@ Ex: a = 10, b = 20 and Output is 30
   - Website Links for Softwares to install and work with python.
     - **Free Softwares**
       1. https://thonny.org/
+  - **Online Editior**  to practise python to compile the code.
+      1. https://replit.com/
+  -   
+      
+
+
+# Projects
+  1. Take input from the user and print both User Name and native place.
 
 
 *Stay Safe and Be happy and Never stop learning*
