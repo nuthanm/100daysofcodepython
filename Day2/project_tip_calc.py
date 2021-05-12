@@ -9,5 +9,5 @@ print(extra_amount_for_tip)
 
 final_amount = (bill_in_float + extra_amount_for_tip)
 print(final_amount)
-person_share = round(final_amount / members,5)
-print(f"Each person should pay Rs: {round(person_share,2)}")
+person_share = "{:.5f}".format(final_amount / members)
+print(f"Each person should pay Rs: {person_share}")
