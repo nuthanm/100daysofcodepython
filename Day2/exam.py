@@ -15,3 +15,10 @@ else:
   print('First digit' + str(first_digit))
   print('Second digit' + str(second_digit))
   print('Total digit value ' + str(total))
+
+# Program 2 - Calculate Body Mass Index 
+weight_in_kgs = input('Enter weight in kilograms: ')
+height_in_meters = input('Enter height in meters: ')
+
+bmi = int(weight_in_kgs)/ (float(height_in_meters) ** 2)
+print(int(bmi))

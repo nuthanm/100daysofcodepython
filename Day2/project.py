@@ -9,3 +9,4 @@ native_place = input("Please enter your native place:\n")
 
 # Combine both name and native place
 print(user_name + " is from " + native_place + " District/State.")
+
