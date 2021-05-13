@@ -1,5 +1,8 @@
 ## Day 3 - Learn following concepts
   1. Conditional statements
+     - if
+     - nestedif
+     - elif
 
   2. Operators
      - Comparision Operators 
