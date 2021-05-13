@@ -1,7 +1,15 @@
 ## Day 3 - Learn following concepts
   1. Conditional statements
 
-  2. Logincal Operators
+  2. Operators
+     - Comparision Operators 
+        - Greater Than (>)
+        - Less Than (<)
+        - Greater Than or Equal to (>=)
+        - Less than or Equal to (<=)
+        - Equal to (==)
+        - Not Equal to (!=)
+     - Logical Operators
 
   3. Scopes
 
