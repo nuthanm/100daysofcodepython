@@ -11,3 +11,4 @@
 #7. TypeError - object of type 'int' has no len() => print(len(123))
 #8. IndexError - string index out of range => "Hello"[5] - It has only 5 charecters but expecting 6 character (Starts with 0 so that 5 means here 6)
 #9. ValueError - Invalid literal for int() with base 10: 'n' => Passing input as 'nm' trying to parse int(nm[0])
+#10. ModuleNotFoundError - No module named with 'bs4' => When trying to import this bs4 this gives an error.
