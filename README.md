@@ -39,6 +39,7 @@ Ex: a = 10, b = 20 and Output is 30
       1. https://thonny.org/
   - **Online Editior**  to practise python to compile the code.
       1. https://replit.com/
+      2. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
   
 # Projects
   1. Take input from the user and print both User Name and native place.
