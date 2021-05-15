@@ -13,7 +13,7 @@ else:
 weight = float(input("Weight in kgs: "))
 height = float(input("height in m: "))
 
-bmi = weight/(height ** 2)
+bmi = round(weight/(height ** 2),2)
 
 if bmi < 18.5:
   print(f"Your bmi is {bmi}, You are Underweight")
@@ -25,5 +25,18 @@ elif bmi > 30 and bmi < 35:
   print(f"Your bmi is {bmi}, You are in Obese")
 else:
   print(f"Your bmi is {bmi}, You need Clinically Obese")
-  
-print(bmi)
+
+
+# Program 3 - Check year is leap or not
+year = int(input("Please enter year: "))
+
+if year % 4 == 0:
+  if year % 100 == 0:
+    if year % 400 == 0:
+      print(f'{year} is a Leap year.')
+    else:
+      print(f'{year} is not a Leap year.')
+  else:
+    print('Leap')
+else:
+  print("Not leap year")

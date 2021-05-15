@@ -9,39 +9,6 @@ In this repository, I am going to add what i learnt during this 100 days of code
   - Code snippets
   - many  more for learning purpose.
   
-**Day 1** - I learnt what, why and how to use 
-  **print** command
-
-  **input** command
-
-  **string** datatype and its len() - find lenght of charecters in string
-
-  **variables** - Used to store and reuse it through out the application
-  
-**what** - *print* is a function to use display any content like text message, addition(Expressions/Mathematical) in console window.
-
-**why** - If you want to see some calculation like 10 + 20 = 30 in console then use *print* and it is one example. If you want to read and print the input what you type in console then use this function
-
-**how** - *print(<any_content>)*
-
-Ex: 
-print("Hello Nani")
-
-**o/p: Hello Nani**
-
-print('Hello Potti')
-
-**o/p: Hello Potti**
-
-Both gives result output
-
-print(10+20) 
-
-**o/p: 30**
-
-Print(10+20)
-**o/p: throws an error: NameError: name 'Print' is not defined**
-
 ** Multiple ways we acheive comments in python **
 
 **'#'** - Use it for single line comments.
@@ -72,14 +39,12 @@ Ex: a = 10, b = 20 and Output is 30
       1. https://thonny.org/
   - **Online Editior**  to practise python to compile the code.
       1. https://replit.com/
-  -   
-      
-
-
+  
 # Projects
   1. Take input from the user and print both User Name and native place.
 
+  2. BMI and BMI 2.0
 
-*Stay Safe and Be happy and Never stop learning*
+  *Stay Safe and Be happy and Never stop learning*
 
 -- Happy Coding
